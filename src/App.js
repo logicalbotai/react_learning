@@ -6,9 +6,9 @@ import Navbar from './components/Navbar';
 function App() {
   // put items in array and use map function to render cards
   const items = [
-    { id: 1, cardname: "anurag", image_src: "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" },
-    { id: 2, cardname: "anurag", image_src: "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" },
-    { id: 3, cardname: "anurag", image_src: "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" },
+    { id: 1, cardname: "python", image_src: "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" },
+    { id: 2, cardname: "javascript", image_src: "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" },
+    { id: 3, cardname: "react", image_src: "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" },
   ];
 
   return ( 
